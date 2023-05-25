@@ -1,6 +1,9 @@
 "# bincomProject" 
+
 count = 0
+
 lst = []
+
 num = int(input('Enter a positive integer for iteration: '))
 if num == 0:
   print('The integer cannot be {}'.format(num))
