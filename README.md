@@ -27,4 +27,5 @@ else:
     Sum = sum(lst)
     
 average = Sum / count
+
 print('The Average of {} is {}'.format(lst, average))
