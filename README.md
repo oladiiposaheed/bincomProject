@@ -16,7 +16,7 @@ elif num < 0:
   
 else:
 
-  for i in range():
+  for i in range(num):
   
     n = int(input('Enter an integer: '))
     
