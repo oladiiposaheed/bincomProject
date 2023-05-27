@@ -25,8 +25,13 @@ else:
     lst.append(n)
     
     Sum = sum(lst)
+    
 if count <= 1:
+
   print('The Average is {}'.format(Sum))
+  
 else:
+
   average = Sum / count
+  
   print('The Average of {} is {}'.format(lst, average))
